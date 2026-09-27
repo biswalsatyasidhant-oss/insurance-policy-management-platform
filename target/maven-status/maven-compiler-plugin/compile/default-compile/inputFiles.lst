@@ -1,0 +1,11 @@
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\controller\RoleController.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\dto\RoleRequestDTO.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\dto\RoleResponseDTO.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\entity\Role.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\exception\DuplicateResourceException.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\exception\ResourceNotFoundException.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\mapper\RoleMapper.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\repository\RoleRepository.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\service\RoleService.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\bs\insurance\backend\serviceImpl\RoleServiceImpl.java
+C:\Users\Satyasidhant\Downloads\insurance-policy-management\insurance-policy-management\src\main\java\com\insurance\insurance_policy_management\InsurancePolicyManagementApplication.java

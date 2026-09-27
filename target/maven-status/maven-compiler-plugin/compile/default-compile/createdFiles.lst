@@ -1,0 +1,11 @@
+com\bs\insurance\backend\exception\ResourceNotFoundException.class
+com\bs\insurance\backend\mapper\RoleMapper.class
+com\bs\insurance\backend\dto\RoleRequestDTO.class
+com\bs\insurance\backend\exception\DuplicateResourceException.class
+com\bs\insurance\backend\controller\RoleController.class
+com\bs\insurance\backend\service\RoleService.class
+com\bs\insurance\backend\dto\RoleResponseDTO.class
+com\bs\insurance\backend\serviceImpl\RoleServiceImpl.class
+com\bs\insurance\backend\repository\RoleRepository.class
+com\bs\insurance\backend\entity\Role.class
+com\insurance\insurance_policy_management\InsurancePolicyManagementApplication.class

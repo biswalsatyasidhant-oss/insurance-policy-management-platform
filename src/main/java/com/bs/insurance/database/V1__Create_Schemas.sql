@@ -1,0 +1,11 @@
+CREATE SCHEMA auth;
+
+CREATE SCHEMA master;
+
+CREATE SCHEMA policy;
+
+CREATE SCHEMA claim;
+
+CREATE SCHEMA payment;
+
+CREATE SCHEMA audit;
