@@ -16,5 +16,5 @@ public class UserRequestDTO {
     String Phone;
     String password;
     String status;
-    String role;
+    Long roleId;
 }
